@@ -1,8 +1,10 @@
 ## Fatemeh Aarabi
 
-You can use the [editor on GitHub](https://github.com/Faarabi/Faarabi.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hi! Welcome to my website.
+
+I am a Ph.D. in Operations Research at University at Buffalo, SUNY. I am advised by [Dr. Rajan Batta](https://engineering.buffalo.edu/home/school/about/people/rajan-batta.html)  
+
 
 ### Markdown
 
