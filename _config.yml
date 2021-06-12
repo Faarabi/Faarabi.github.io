@@ -14,4 +14,4 @@ linkedin_uername: faarabi
   
 
 # Build settings
-remote_theme: jekyll/minima
+theme: minima
