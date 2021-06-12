@@ -8,9 +8,9 @@ description: ""
 github_username: Faarabi
 linkedin_uername: faarabi
 
-header_pages:
-  - Research.md
-  - about.md
+#header_pages:
+ # - Research.md
+  #- about.md
   
 
 # Build settings
