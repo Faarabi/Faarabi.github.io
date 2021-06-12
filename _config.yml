@@ -7,5 +7,9 @@ email: faarabi@buffalo.edu
 description: ""
 github_username: Faarabi
 linkedin_uername: faarabi
+
+header_pages:
+Research.md
+
 # Build settings
 theme: minima
