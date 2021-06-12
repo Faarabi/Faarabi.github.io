@@ -1,10 +1,11 @@
 #theme: jekyll-theme-minimal
 # Site settings
-title: Great New Blog Title
+title: Fatemeh Aarabi, Ph.D.
 author:
-name: Evan Will
-email: your-email@domain.com
-description: "Great site about Jekyll on GH-Pages."
-
+name: Fatemeh Aarabi
+email: faarabi@buffalo.edu
+description: ""
+github_username: Faarabi
+linkedin_uername: faarabi
 # Build settings
-remote_theme: jekyll/minima
+theme: minima
