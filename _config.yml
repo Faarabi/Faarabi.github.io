@@ -8,8 +8,9 @@ description: ""
 github_username: Faarabi
 linkedin_uername: faarabi
 
-#header_pages:
-#- Research.md
+header_pages:
+  - about.md
+  - portfolio.md
 
 # Build settings
 theme: minima
