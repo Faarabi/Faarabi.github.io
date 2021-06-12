@@ -10,7 +10,7 @@ linkedin_uername: faarabi
 
 header_pages:
   - Research.md
-  - portfolio.md
+  
 
 # Build settings
 theme: minima
